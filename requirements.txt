@@ -54,7 +54,6 @@ contextlib2==21.6.0
 controlnet_aux==0.0.9
 cppyy==3.1.2
 cryptography==43.0.1
-ctypes_snappy==1.03
 cudf==0.6.1.post1
 curio==1.6
 cx_Oracle==8.3.0
