@@ -4,7 +4,7 @@ import streamlit as st
 import fitz  
 import docx
 import pandas as pd
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationChain
