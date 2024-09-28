@@ -337,9 +337,6 @@ threadpoolctl==3.5.0
 tigrisdb==1.0.0b6
 tiktoken==0.7.0
 timescale_vector==0.0.7
-torch==2.0.1
-torch_npu==2.3.1
-torch_xla==2.4.0
 traitlets==5.14.3
 tree_sitter==0.23.0
 tree_sitter_languages==1.10.2
