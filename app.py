@@ -131,11 +131,11 @@ def get_conversational_chain():
 # Main function for the Streamlit app
 def main():
     # Set page config
-    st.set_page_config(page_title="Document Summarizer and Q&A", layout="wide")
+    st.set_page_config(page_title="DocuNinja", layout="wide")
 
     # Add title and description
-    st.title("📄 Document Summarizer and Q&A")
-    st.write("Upload a PDF, DOCX, TXT, HTML, CSV, or PPTX document to summarize and ask questions about it. Explore your documents in a conversational manner!")
+    st.title("🗂️ DocuNinja")
+    st.write("Master your document review process with **DocuNinja**! Effortlessly upload any document format—be it **PPTs, DOCs, PDFs, Txts, HTMLs, or CSVs**—and let our advanced AI transform lengthy texts into concise summaries. With integrated Q&A capabilities, **DocuNinja** helps you clarify complex ideas and extract critical insights swiftly. Whether you're a student preparing for exams or a professional needing quick insights, **DocuNinja** equips you with the tools to maximize the value of your documents in record time!")
 
     # Add a sidebar for file upload and styling
     st.sidebar.header("Upload Document")
