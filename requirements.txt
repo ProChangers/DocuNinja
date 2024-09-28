@@ -26,7 +26,7 @@ atlassian==0.0.0
 azureml==0.2.7
 baidubce==0.8.3
 banana_dev==6.3.0
-BeautifulSoup==3.2.2
+BeautifulSoup4==3.2.2
 bibtexparser==1.4.1
 bigdl==2.4.0
 bilibili_api==9.1.0
