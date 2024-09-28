@@ -51,8 +51,9 @@ The required packages are listed in `requirements.txt`.
 
    This will start the Streamlit server, and you can access the application in your web browser at http://localhost:8501.
 
-Usage
-Open the application in your web browser.
-Use the sidebar to upload a document (PDF, DOCX, TXT, HTML, CSV, PPTX).
-View the generated summary of the document.
-Ask questions related to the document content using the chat interface.
+## Usage
+
+1. Open the application in your web browser.
+2. Use the sidebar to upload a document (PDF, DOCX, TXT, HTML, CSV, PPTX).
+3. View the generated summary of the document.
+4. Ask questions related to the document content using the chat interface.
