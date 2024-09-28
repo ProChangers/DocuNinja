@@ -46,7 +46,9 @@ GOOGLE_API_KEY=<your_google_api_key>
 5. Running the Application
    
 To run the application, execute the following command in your terminal:
+
 streamlit run app.py
+
 This will start the Streamlit server, and you can access the application in your web browser at http://localhost:8501.
 
 Usage
